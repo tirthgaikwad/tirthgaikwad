@@ -1,18 +1,74 @@
-# 💫 About Me:
-I am an Engineering student in AI & Data Science, currently building strong foundations in programming, problem-solving, web development, and artificial intelligence. I am learning Java, C++ with DSA, Python, and AI-based project development. My goal is to become industry-ready by building practical projects, improving my coding skills, and exploring modern AI tools.
+<div align="center">
 
+# Tirth Gaikwad
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tirth-gaikwad-858818416?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Developer;Computer+Vision+Enthusiast;Building+Impactful+Software" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tirth gaikwad&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=tirth gaikwad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tirth gaikwad&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  Building intelligent applications and solving real-world challenges through clean code and modern AI workflows.
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=tirth gaikwad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Technologies & Stack
+
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+#### AI / Machine Learning & Vision
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-007ACC?style=flat&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- **Connect2Minds**  
+  *A peer-to-peer collaboration platform matching students by complementary skill sets.*  
+  `Python` • `Web Framework` • `API Integration`
+
+- **ToolTap**  
+  *A curated directory and comparison engine for discovering artificial intelligence tooling.*  
+  `JavaScript` • `Full Stack` • `Responsive UI`
+
+- **AI Air Canvas**  
+  *Real-time hand-tracking interface allowing users to draw and interact virtually via webcam.*  
+  `Python` • `OpenCV` • `MediaPipe`
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tirthgaikwad&show_icons=true&theme=transparent&hide_border=true&title_color=2E86AB&text_color=555555&icon_color=2E86AB" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthgaikwad&layout=compact&theme=transparent&hide_border=true&title_color=2E86AB&text_color=555555" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirthgaikwad&theme=transparent&hide_border=true&stroke=0000&ring=2E86AB&fire=2E86AB&currStreakNum=2E86AB" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tirthgaikwad/tirthgaikwad/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tirthgaikwad/tirthgaikwad/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/tirthgaikwad/tirthgaikwad/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
