@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthgaikwad&layout=compact&theme=transparent&hide_border=true&title_color=2E86AB&text_color=555555" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirthgaikwad&theme=transparent&hide_border=true&stroke=0000&ring=2E86AB&fire=2E86AB&currStreakNum=2E86AB" alt="GitHub Streak" />
-</div>
+</div> 
 
 ---
 
